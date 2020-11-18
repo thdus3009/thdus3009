@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Kim So Yeon 👋
+CGV Project는 Merge6 Branch가 최종 버전입니다.
 <!--
 **thdus3009/thdus3009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
